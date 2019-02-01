@@ -70,8 +70,6 @@ jupyter notebook
 
 9. Open the "Navigation.ipynb" file in jupyter notebooks. Before running code in the notebook, change the kernel to match the `drlnd` environment by using the drop-down `Kernel` menu. 
 
-![Kernel][image2]
-
 ### Instructions
 
 Follow the instructions in `Navigation.ipynb` to view the training of the agent!  
