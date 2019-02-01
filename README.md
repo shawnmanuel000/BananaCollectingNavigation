@@ -6,7 +6,7 @@
 
 ### Introduction
 
-In this project, I trained an agent to navigate (and collect bananas!) in a large, square world as shown below.  
+In this project, I trained an agent to navigate (and collect bananas!) in a large, square world as shown below as part of Udacity's Deep Reinforcement Learning project.  
 
 ![Trained Agent][image1]
 
@@ -22,7 +22,8 @@ The task is episodic, and the environment is considered solved when the agent ge
 
 ### Setting up the project
 
-1. Clone the repository with **`git clone [reposiroty name]`**
+1. Clone the repository with 
+**`git clone https://github.com/shawnmanuel000/BananaCollectingNavigation.git`**
 
 2. Download the Unity environment from one of the links below.  You need only select the environment that matches your operating system:
     - Linux: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P1/Banana/Banana_Linux.zip)
